@@ -1,0 +1,282 @@
+id,Name,type,lat,lon,demand
+1,Adia ES,shelter,14.4883178,121.437077,30
+2,Alaminos CS,shelter,14.0650417,121.2463809,30
+3,Alumbrado ES,shelter,14.1318501,121.383214,30
+4,Ananias Laico Memorial Elementary School,shelter,14.1998479,121.4287374,30
+5,Angela Ong Javier MES,shelter,14.4178228,121.4432586,30
+6,Anibong Elementary School,shelter,14.2261157,121.4633545,30
+7,Antipolo Sulsuguin ES,shelter,14.1105713,121.381443,30
+8,Antonio Adricula Sr. Memorial Elementary School,shelter,14.4528083,121.4620595,30
+9,Antonio Chipeco MS,shelter,14.17868695,121.3014055,30
+10,Aplaya ES,shelter,14.3181414,121.1212119,30
+11,B.N. Calara Integrated National High School,shelter,14.18032032,121.2318119,30
+12,BUKAL ES,shelter,14.2385326,121.5444699,30
+13,Bagong Pook ES,shelter,14.0729722,121.3213301,30
+14,Bagong Silang ES,shelter,14.3353663,121.0240745,30
+15,Bagumbayan ES,shelter,14.2682879,121.3998141,30
+16,Balanac Elementary School,shelter,14.2165314,121.4527738,30
+17,Balayhangin ES,shelter,14.1412787,121.3095787,30
+18,Balian Integrated National High School,shelter,14.39470486,121.4748286,30
+19,Balubad Elementary School,shelter,14.2884845,121.4630333,30
+20,Bambang Elementary School,shelter,14.1774254,121.2187444,30
+21,Banca-Banca ES,shelter,14.2023024,121.3455688,30
+22,Bangyas ES,shelter,14.1738804,121.3168589,30
+23,Banilad ES,shelter,14.121669,121.4023508,30
+24,Banilan ES,shelter,14.3813653,121.4003954,30
+25,Banka-Banka Elementary School,shelter,14.1857949,121.3778611,30
+26,Banlic Elementary School,shelter,14.22853056,121.1521528,30
+27,Barangay Kalayaan Evacuation Center,shelter,14.3279826,121.4802397,30
+28,Barangay Kanluran Evacuation Center,shelter,14.283986,121.522159,30
+29,Bay CS,shelter,14.1809859,121.284764,30
+30,Bayog ES,shelter,14.1911246,121.2442645,30
+31,Bitin Elementary School,shelter,14.0940794,121.2132482,30
+32,Biñan Pagsanjan Senior High School,shelter,14.33847499,121.0890149,30
+33,Bonifacio Elementary School,shelter,14.1845042,121.509568,30
+34,Brgy Labuin Evacuation Center,shelter,14.203485,121.3890582,30
+35,Brgy. San mIGUEL eVACUATION cENTER,shelter,14.2001247,121.3768683,30
+36,Bubukal ES,shelter,14.2513559,121.4037125,30
+37,Bubuyan National High School,shelter,14.17204167,121.1043083,30
+38,Buenaventura E. Fundialan Memorial Integrated ...,shelter,14.06489499,121.2663933,30
+39,Buenavista Integrated National High School,shelter,14.22469548,121.4296948,30
+40,Buhay ES,shelter,14.4285168,121.448585,30
+41,Bulajo ES,shelter,14.2264979,121.4913182,30
+42,Bunga Elementary School,shelter,14.1498915,121.4000951,30
+43,Bunggo National High School,shelter,14.15862778,121.0630917,30
+44,Bungkol ES,shelter,14.1814674,121.4278093,30
+45,Burol Elementary School,shelter,14.245595,121.5098236,30
+46,Cabooan ES,shelter,14.459884,121.4270657,30
+47,Caesar Z. Lanuza ES,shelter,14.26165358,121.4284755,30
+48,Calamba Bayside Integrated School,shelter,14.21565,121.1861806,30
+49,Calamba National High School,shelter,14.2226,121.1428222,30
+50,Calangay Elementary School,shelter,14.5091011,121.406885,30
+51,Calauan CES,shelter,14.1471863,121.3134533,30
+52,Caliraya ES,shelter,14.2866998,121.501183,30
+53,Callos (Escolapia) ES,shelter,14.2750024,121.402998,30
+54,Calminue ES,shelter,14.2331972,121.6140707,30
+55,Calo ES,shelter,14.1816735,121.2797381,30
+56,Calumpang ES,shelter,14.2009302,121.4018242,30
+57,Cambuja-Bubucal ES,shelter,14.4735814,121.410065,30
+58,Cansuso ES,shelter,14.2369153,121.5667696,30
+59,Casa Real ES,shelter,14.3552759,121.3967343,30
+60,Casinsin ES,shelter,14.3453247,121.3870927,30
+61,Cavinti Elementary,shelter,14.2474012,121.501249,30
+62,Concepcion (G. Tabia ES),shelter,14.2990444,121.4566405,30
+63,Cornelio C. Dalena ES,shelter,14.3846729,121.4768167,30
+64,Crisanto Guysayko MES,shelter,14.1397303,121.418217,30
+65,Cristobal S. Conducto Memorial Integrated National High School,shelter,14.11366648,121.3971794,30
+66,Crossing Elementary School,shelter,14.20469444,121.1583972,30
+67,Cueva ES,shelter,14.5059336,121.4577896,30
+68,DAMBO NATIONAL HIGH SCHOOL,shelter,14.3976637,121.4078178,30
+69,DAYAP E.S - ANNEX,shelter,14.17881825,121.3384305,30
+70,DON MANUEL RIVERA MEMORIAL INTEGRATED NATIONAL HIGH SCHOOL,shelter,14.23489057,121.3712184,30
+71,Dayap NHS (Mabacan Annex),shelter,14.1349948,121.2900383,30
+72,Del Carmen ES,shelter,14.0795241,121.2649774,30
+73,Del Remedio Elementary School,shelter,14.0826042,121.3109305,30
+74,Dela Paz-San Pablo ES,shelter,14.18697305,121.5370513,30
+75,Dingin ES,shelter,14.2434874,121.4463141,30
+76,Dolores Elementary School,shelter,14.1073699,121.3306984,30
+77,Dr. Augusto E. Hocson Elem. School,shelter,14.24822398,121.4588837,30
+78,Duhat ES,shelter,14.2470094,121.3794642,30
+79,E. Barreto Sr. Elementary School,shelter,14.18039722,121.1853361,30
+80,E. Barreto Sr. National High School,shelter,14.17981667,121.178825,30
+81,FRANCISCO BENITEZ MEMORIAL SCHOOL,shelter,14.2746288,121.4540471,30
+82,FRANCISCO S. BROSAS MEMORIAL ELEMENTARY SCHOOL,shelter,14.153025,121.4387615,30
+83,Famy Elementary School,shelter,14.4383249,121.4497212,30
+84,Fidel V. Regulacion Elementary School (Sahur Ulan ES),shelter,14.45935136,121.4507355,30
+85,Francisco K. Redor Sr. MES,shelter,14.4659928,121.4783493,30
+86,G. Herradura ES (Nanhaya ES),shelter,14.22867883,121.3307977,30
+87,GAGALOT-TAYTAY ELEM. (ANNEX),shelter,14.13673261,121.5040593,30
+88,Galalan Elementary Sschool,shelter,14.44340997,121.5057628,30
+89,Gatid ES,shelter,14.2613264,121.3855001,30
+90,Gaudencio Octavio Integrated High School,shelter,14.5111294,121.4359728,30
+91,Gov. Felicisimo T. San Luis Integrated Senior Highschool,shelter,14.25866588,121.4051036,30
+92,Gov. Felicisimo T. San Luis National Agro-Industrial Integrated High School,shelter,14.48579496,121.5011133,30
+93,Guerilla Elementary School,shelter,14.0810122,121.3389011,30
+94,Halang Elementary School,shelter,14.197825,121.1603722,30
+95,Halayhayin ES,shelter,14.4234347,121.4486418,30
+96,Hornalan Elementary School,shelter,14.17104722,121.0684361,30
+97,Ibaba ES,shelter,14.3638693,121.4792059,30
+98,Ibayiw Integrated National High School,shelter,14.0527729,121.2589425,30
+99,Imok ES,shelter,14.122559,121.3029648,30
+100,Inao-Awan ES,shelter,14.2615145,121.5327743,30
+101,J. Fernandez Y Zoril (Asufre),shelter,14.38479398,121.4052949,30
+102,J. Santiago ES,shelter,14.5643192,121.4436875,30
+103,Kabaritan Elementary School,shelter,14.18870971,121.2604157,30
+104,Kabulusan ES,shelter,14.3681595,121.3995051,30
+105,Kay Anlog Elementary School,shelter,14.16401389,121.1192917,30
+106,LAGUNA SENIOR HIGH SCHOOL,shelter,14.2772015,121.4189844,30
+107,LOPEZ ELEM,shelter,14.17456155,121.2435481,30
+108,LUMOT ELEM,shelter,14.26792767,121.5446694,30
+109,La Mesa Elementary School,shelter,14.18123611,121.1569611,30
+110,Labangan ES,shelter,14.1678596,121.4004238,30
+111,Labuin ES,shelter,14.2460076,121.3683763,30
+112,Laguerta Elementary School,shelter,14.17818056,121.1227056,30
+113,Laguerta Elementary School,shelter,14.17375,121.090025,30
+114,Laguna Science Integrated High School,shelter,14.17112632,121.2824438,30
+115,Lalakay Elementary School,shelter,14.1723859,121.2146645,30
+116,Lamot ES,shelter,14.1616516,121.329554,30
+117,Lamot ES - Annex,shelter,14.154699,121.3254592,30
+118,Latian Elementary School,shelter,14.23339167,121.1212444,30
+119,Laurel ES,shelter,14.1495402,121.1096227,30
+120,Lawa Elementary School,shelter,14.20688889,121.1455194,30
+121,Lewin Elementary School,shelter,14.2956242,121.4956397,30
+122,Liliw CES,shelter,14.1282001,121.4374953,30
+123,Liliw Senior High School,shelter,14.1428164,121.4389642,30
+124,Linga ES,shelter,14.2545248,121.3602996,30
+125,Longos Elementary School,shelter,14.3369749,121.4816708,30
+126,Looc Elementary School,shelter,14.22391389,121.1791667,30
+127,Los Banos Mulitpurpose Evacuation center,shelter,14.1819422,121.2242686,30
+128,Los Baños National High School - Poblacion,shelter,14.17418883,121.2224979,30
+129,Los Baños Senior High School (SHS) Stand Alone,shelter,14.18063287,121.246465,30
+130,Lowland Integrated National High School,shelter,14.17935485,121.3745047,30
+131,Luisiana Integrated National High School,shelter,14.1850891,121.5151815,30
+132,Lumban CES,shelter,14.295284,121.4641061,30
+133,Lumban National High School,shelter,14.3078024,121.4568124,30
+134,M. Z. Lanuza ES,shelter,14.2331702,121.4340477,30
+135,Maahas ES,shelter,14.1774174,121.2510459,30
+136,Mabitac ES,shelter,14.4267868,121.431331,30
+137,Magdalena Integrated National High School,shelter,14.19789029,121.4335885,30
+138,Magsaysay ES,shelter,14.339047,121.0330585,30
+139,Maitim ES,shelter,14.179173,121.2755587,30
+140,Majada Out Elementary High School,shelter,14.19499722,121.1065972,30
+141,Majayjay Elementary School,shelter,14.1419156,121.4713569,30
+142,Makativille ES,shelter,14.1733603,121.3314109,30
+143,Malinta ES,shelter,14.1864315,121.2297451,30
+144,Mapagong Elementary School,shelter,14.2176,121.1303028,30
+145,Maravilla Elementary School,shelter,14.2058366,121.4190216,30
+146,Masapang ES,shelter,14.1915135,121.3376398,30
+147,Masaya ES,shelter,14.1438869,121.2728451,30
+148,Masico ES,shelter,14.2068556,121.3799725,30
+149,Masiit ES,shelter,14.16108,121.3056523,30
+150,Matalatala ES,shelter,14.4172772,121.4104162,30
+151,Matikiw ES,shelter,14.3518221,121.3886585,30
+152,Maulawin ES,shelter,14.269711,121.4543258,30
+153,Maunong Elementary School,shelter,14.16870556,121.1544167,30
+154,Mayapa Elementary School,shelter,14.21131389,121.1273583,30
+155,Mayondon Elementary School,shelter,14.1882712,121.2385534,30
+156,Maytalang I ES,shelter,14.28906377,121.4581772,30
+157,Milagrosa Elementary School,shelter,14.17574167,121.1370833,30
+158,Mojon ES,shelter,14.2099427,121.3988406,30
+159,Nagcarlan Senior High School,shelter,14.1852285,121.3976363,30
+160,Nanguma ES,shelter,14.4451908,121.421267,30
+161,Nicolas L. Galvez Memorial Integrated National ...,shelter,14.18840915,121.2830123,30
+162,Novaliches ES,shelter,14.1110115,121.4557775,30
+163,Numero ES,shelter,14.4228948,121.400811,30
+164,Oogong ES,shelter,14.2236745,121.398801,30
+165,P. Rizal ES (Putho ES),shelter,14.15240633,121.2514041,30
+166,"PAGCOR Multipurpose Evacuation Center - City of Cabuyao, Laguna",shelter,14.255151,121.1460689,30
+167,PHILIPPINE HIGH SCHOOL FOR THE ARTS,shelter,14.1535244,121.2162351,30
+168,PONCIANO ALZONA ELEMENTARY SCHOOL,shelter,14.0581566,121.2303829,30
+169,Paagahan ES,shelter,14.4421994,121.4004957,30
+170,Paang Bundok ES,shelter,14.4624826,121.4022629,30
+171,Paciano Rizal ES,shelter,14.2168755,121.1368061,30
+172,Pag-asa Elementary School,shelter,14.1341361,121.4335309,30
+173,Pagalangan ES,shelter,14.236148,121.3334761,30
+174,Pagsanjan Integrated National High School,shelter,14.28045089,121.4514482,30
+175,Pagsawitan ES,shelter,14.2651032,121.4250538,30
+176,Pakil ES,shelter,14.3796814,121.4779718,30
+177,Palasan ES,shelter,14.2546148,121.4202347,30
+178,Paliparan ES,shelter,14.1193286,121.2876566,30
+179,Palo Alto Elementary School,shelter,14.18476944,121.1070139,30
+180,Pao-O ES Main,shelter,14.54561793,121.4203329,30
+181,Pao-o ES Annex,shelter,14.5227293,121.4198052,30
+182,Papatahan ES,shelter,14.3648768,121.5511174,30
+183,Parian Elementary School,shelter,14.21419722,121.1515111,30
+184,Patimbao ES,shelter,14.2723385,121.4168866,30
+185,Perez ES,shelter,14.1049304,121.2695454,30
+186,Pila ES,shelter,14.2348039,121.3656923,30
+187,Pila Senior High School,shelter,14.24981897,121.3605609,30
+188,Plaridel Elementary School,shelter,14.1141014,121.4168375,30
+189,Platon Elementary School,shelter,14.0689895,121.3308322,30
+190,Pook ES,shelter,14.2552487,121.3692573,30
+191,Prinza ES,shelter,14.2008885,121.1404546,30
+192,Puting Lupa Elementary School,shelter,14.15314722,121.1622583,30
+193,Puypuy ES,shelter,14.1594933,121.2735657,30
+194,Real Elementary School,shelter,14.19850556,121.1491583,30
+195,Regional Evacuation Center Santa Rosa,shelter,14.3144346,121.1060441,30
+196,Rizal ES,shelter,14.1115671,121.3911364,30
+197,SAN BENITO NATIONAL HIGH SCHOOL,shelter,14.19820567,121.3192887,30
+198,SITIO MAGALOLON ES,shelter,14.3076563,121.5442091,30
+199,Sampaloc ES,shelter,14.2696393,121.4444762,30
+200,San Anton Elementary School,shelter,14.0645109,121.3246288,30
+201,San Antonio ES,shelter,14.3670345,121.054972,30
+202,San Antonio Integrated National High School,shelter,14.3246914,121.5303707,30
+203,San Benito ES,shelter,14.0632985,121.2735469,30
+204,San Felix ES,shelter,14.20682492,121.3371042,30
+205,San Francisco ES,shelter,14.0594215,121.3282282,30
+206,San Francisco Integrated National High School,shelter,14.21297217,121.3438013,30
+207,San Isidro ES,shelter,14.3421082,121.0232496,30
+208,San Jose ES,shelter,14.073467,121.3491415,30
+209,San Juan Elementary School,shelter,14.21678889,121.1757889,30
+210,San Lucas I Elementary School,shelter,14.0842093,121.3252588,30
+211,San Miguel ES,shelter,14.048134,121.3056965,30
+212,San Pablo City Multi Purpose Evacuation Center,shelter,14.0414821,121.3257595,30
+213,San Roque Elementary School,shelter,14.3665396,121.0620821,30
+214,San Roque National High School,shelter,14.2261377,121.3226161,30
+215,San Salvador ES,shelter,14.2166545,121.48866,30
+216,San Vicente Elementary School,shelter,14.0152694,121.3377446,30
+217,Santa Catalina Elementary School,shelter,14.120867,121.341318,30
+218,Santa Lucia ES,shelter,14.1795292,121.4085311,30
+219,Santa Maria ES,shelter,14.0281332,121.3127165,30
+220,Santa Maria Magdalena Elementary School,shelter,14.094923,121.3072965,30
+221,Santa Monica Elementary School,shelter,14.0553117,121.2963849,30
+222,Santa Rosa ES,shelter,14.0433901,121.2491086,30
+223,Santisima Cruz ES,shelter,14.2879318,121.4120777,30
+224,Santo Angel Central Elementary School,shelter,14.2849518,121.4084636,30
+225,Santo Angel Sur ES,shelter,14.2811626,121.4111755,30
+226,Santo Niño Elementary School,shelter,14.0450131,121.3561392,30
+227,Santo Tomas ES,shelter,14.1660685,121.3384015,30
+228,Silangan ES,shelter,14.284265,121.4180449,30
+229,Siniloan Integrated National High School,shelter,14.4139404,121.4469511,30
+230,Sinipian ES,shelter,14.1152326,121.4311306,30
+231,Sisilmin ES,shelter,14.24469811,121.52146,30
+232,Sitio Kalayaan ES,shelter,14.3386968,121.5289495,30
+233,St. Therese School Calamba,shelter,14.17978333,121.1997833,30
+234,Sta. Catalina NHS Ext. (Bakia-Botocan ),shelter,14.1511431,121.4928361,30
+235,Sta. Maria Integrated High School,shelter,14.47017282,121.4241648,30
+236,Sto Domingo ES,shelter,14.22945105,121.0485857,30
+237,Sto. Tomas Integrated High School,shelter,14.16836565,121.3491195,30
+238,Suba ES,shelter,14.1662746,121.4529562,30
+239,Suba NHS,shelter,14.1745241,121.4435724,30
+240,Sulib ES,shelter,14.4048469,121.463772,30
+241,T. Daguinsin ES (San Roque ES),shelter,14.07631024,121.3107311,30
+242,T.C. Dator MES (Pulong Dayap ES),shelter,14.19125831,121.3257378,30
+243,Tadlac Elementary School,shelter,14.1800229,121.2094874,30
+244,Tagumpay ES,shelter,14.1934091,121.2912918,30
+245,Talangan ES,shelter,14.1436437,121.4137936,30
+246,Talangka ES,shelter,14.4743492,121.4326334,30
+247,Talaongan East ES,shelter,14.2796151,121.5369821,30
+248,Taytay-Malaya ES,shelter,14.110154,121.4144528,30
+249,Tranca ES,shelter,14.1325221,121.2623998,30
+250,Tubuan ES,shelter,14.2322267,121.3491875,30
+251,Tungkod ES,shelter,14.4919882,121.4077837,30
+252,Turbina Elementary School,shelter,14.18310278,121.1343222,30
+253,Unson Elementary School,shelter,14.2413647,121.4334649,30
+254,Uwiasan Performance Stage (School theater),shelter,14.23230833,121.1751556,30
+255,Wakat ES,shelter,14.1798776,121.351847,30
+256,YUKOS ELEMENTARY SCHOOL,shelter,14.1323406,121.4130937,30
+257,Yukos ES - Annex,shelter,14.1382644,121.4104996,30
+258,Santa Rosa City Hall,depot,14.31474729,121.112456,0
+259,Calamba City Hall,depot,14.19395498,121.1600157,0
+260,Los Baños Municpal Hall,depot,14.17713793,121.2220052,0
+261,Liliw Municpal Hall,depot,14.13084729,121.4360131,0
+262,Pila Municipal Hall,depot,14.23510601,121.3639662,0
+263,Magdalena Municipal Hall,depot,14.2001052,121.4294783,0
+264,Nagcarlan Municipall Hall,depot,14.13328412,121.415131,0
+265,San Pablo City Hall,depot,14.07452948,121.3246272,0
+266,Majayjay Municipal Hall,depot,14.1467227,121.4706729,0
+267,Luisiana Municpal Hall,depot,14.18545931,121.5095631,0
+268,Cavinti Municpal Hall,depot,14.24543888,121.5072197,0
+269,Santa Cruz Municpal Hall,depot,14.28187312,121.4145618,0
+270,Lumban Municipal Hall,depot,14.29711158,121.4593985,0
+271,Kalayaan Municpal Hall,depot,14.32766194,121.4803031,0
+272,Pangil Municpal Hall,depot,14.40270579,121.4684808,0
+273,New Siniloan Municpal Hall,depot,14.42432412,121.4412595,0
+274,Mabitac Municipal Hall,depot,14.44453243,121.4234888,0
+275,Santa Maria Municpal Hall,depot,14.47110378,121.4224101,0
+276,Cabuyao City Hall,depot,14.27336592,121.1240044,0
+277,Alaminos City Hall,depot,14.06534832,121.2464988,0
+278,Pagsanjan Municipal Hall,depot,14.27248538,121.4557509,0
+279,Biñan City Hall,depot,14.3151543,121.0796303,0
+280,Calauan City Hall,depot,14.14663824,121.3146893,0
+281,San Pedro City Hall,depot,14.36293837,121.0603647,0
