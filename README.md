@@ -11,7 +11,7 @@ Dashboard Walkthrough
 WARNING: USING THE CURRENT MAP AND NODES PROVIDED, IT TAKES A SIGNIFICANT AMOUNT OF TIME TO RUN THE OUTPUT (>4 HOURS)
 Therefore it is advisable to use the sample map built into the code to test an output
 
-### Side Panel
+# Side Panel
 
 On the side panel, 3 settings will be presented to the user
 
@@ -54,7 +54,7 @@ The user can also set the number of "look-ahead" that the algorithm runs per ste
 The user is then able to run the simulation to output a solution
 
 
-### Map 
+# Map 
 
 In the middle of the dasbaord, a map of the nodes and the edges connecting them is presented. The user will see a bar labeled steps which, when dragged, will display the most optimal output computed by the algorthm at that step. A hard limit of 1000 steps has been set to eventually end the program.
 
