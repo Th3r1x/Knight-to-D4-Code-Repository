@@ -22,18 +22,20 @@ The user may use a sample map that was used during testing, which provides 2 she
 Otherwise, the user may upload two csv files or manually input the details of the graph:
  - "nodes" csv file with columns: 
   
-   id,type,lat,lon,demand      where "id" is a unique integer for every node;
-                                     "type" is either depot or shelter;
-                                     "lat" and "lon" are floats and coordinates of the node;
-                                     "demand" is the demand for a node (important, nodes with the "type" node should have a value of 0 in the                                                  demand column)
+   id,type,lat,lon,demand     
+   - "id" is a unique integer for every node;
+   - "type" is either depot or shelter;
+   - "lat" and "lon" are floats and coordinates of the node;
+   - "demand" is the demand for a node (important, nodes with the "type" node should have a value of 0 in the demand column)
    
  - "edges" csv file with columns:
 
-   u,v,weight,max_capacity,time,damage     where "u" and "v" are connected nodes and correspond to the id's in the nodes csv;
-                                                 "weight" is the distance in km between u and v;
-                                                 "max_capacity" is the maximum number of supported vehicles on that road(edge);
-                                                 "time" is the time it takes in min to travel between u and v;
-                                                 "damage" is an integer from 0-10 to indicate road damage
+   u,v,weight,max_capacity,time,damage
+   - "u" and "v" are connected nodes and correspond to the id's in the nodes csv;
+   - "weight" is the distance in km between u and v;
+   - "max_capacity" is the maximum number of supported vehicles on that road(edge);
+   -  "time" is the time it takes in min to travel between u and v;
+   -  "damage" is an integer from 0-10 to indicate road damage
 
 ## Setting 2: Vehicles
 
