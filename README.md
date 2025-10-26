@@ -26,7 +26,7 @@ Otherwise, the user may upload two csv files or manually input the details of th
    - "id" is a unique integer for every node;
    - "type" is either depot or shelter;
    - "lat" and "lon" are floats and coordinates of the node;
-   - "demand" is the demand for a node (important, nodes with the "type" node should have a value of 0 in the demand column)
+   - "demand" is the demand for a node (important, nodes with the "depot" type should have a value of 0 in the demand column)
    
  - "edges" csv file with columns:
 
