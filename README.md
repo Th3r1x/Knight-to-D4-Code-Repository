@@ -49,7 +49,7 @@ The user manually assigns the number of vehicles, the capacity of each vehicle a
 
 The user selects the type of heuristic based on the paper from 
 
-    Anuar, W. K., Lee, L. S., Seow, H.-V., & Pickl, S. (2022). A Multi-Depot Dynamic Vehicle Routing Problem with Stochastic Road Capacity: An       MDP Model and Dynamic Policy for Post-Decision State Rollout Algorithm in Reinforcement Learning.
+Anuar, W. K., Lee, L. S., Seow, H.-V., & Pickl, S. (2022). A Multi-Depot Dynamic Vehicle Routing Problem with Stochastic Road Capacity: An MDP Model and Dynamic Policy for Post-Decision State Rollout Algorithm in Reinforcement Learning.
 
 The user can set the number of simulations that the selected heuristic will run to check the most optimal solution amongst the number of simulations.
 
