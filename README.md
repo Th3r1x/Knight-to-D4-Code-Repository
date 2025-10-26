@@ -4,7 +4,9 @@ AGOS: Aid & Goods Optimization System
 
 For the application to work, the dashboard.py and solver2.py need to be located in the same working folder.
 To run the dashboard, in terminal, type:
-  streamlit run dashboard.py 
+
+    streamlit run dashboard.py 
+Note: streamlit extension must be installed by the uesr
 
 Dashboard Walkthrough
 
