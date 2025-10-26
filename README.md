@@ -24,7 +24,8 @@ The user may use a sample map that was used during testing, which provides 2 she
 Otherwise, the user may upload two csv files or manually input the details of the graph:
  - "nodes" csv file with columns: 
   
-   id,type,lat,lon,demand     
+        id, type, lat, lon, demand 
+
    - "id" is a unique integer for every node;
    - "type" is either depot or shelter;
    - "lat" and "lon" are floats and coordinates of the node;
@@ -32,7 +33,8 @@ Otherwise, the user may upload two csv files or manually input the details of th
    
  - "edges" csv file with columns:
 
-   u,v,weight,max_capacity,time,damage
+        u, v, weight, max_capacity, time, damage
+
    - "u" and "v" are connected nodes and correspond to the id's in the nodes csv;
    - "weight" is the distance in km between u and v;
    - "max_capacity" is the maximum number of supported vehicles on that road(edge);
