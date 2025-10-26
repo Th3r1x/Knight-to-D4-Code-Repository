@@ -19,7 +19,7 @@ On the side panel, 3 settings will be presented to the user
 
 ## Setting 1: Map
 
-The user may use a sample map that was used during testing, which provides 2 shelter nodes, 1 depot node, and 2 connector nodes. From here, the user may immedately move on to the next settings should they choose to use this map. 
+The user may use a sample map built into the code that was used during testing, which provides 2 shelter nodes, 1 depot node, and 2 connector nodes. From here, the user may immedately move on to the next settings should they choose to use this map. 
 
 Otherwise, the user may upload two csv files or manually input the details of the graph:
  - "nodes" csv file with columns: 
